@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Don'tKnowThat.mp3-5efad40c452a319d1bb13ef2f9791cde.mp3str"
+
+[deps]
+
+source_file="res://Music/Current_Song/Don'tKnowThat.mp3"
+dest_files=[ "res://.import/Don'tKnowThat.mp3-5efad40c452a319d1bb13ef2f9791cde.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/weapon1_unequip.mp3-d5590886361d93455ee871e56ee83a4a.mp3str"
+
+[deps]
+
+source_file="res://Sounds/Objects/Player/weapon1_unequip.mp3"
+dest_files=[ "res://.import/weapon1_unequip.mp3-d5590886361d93455ee871e56ee83a4a.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

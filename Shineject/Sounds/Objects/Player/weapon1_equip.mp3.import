@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/weapon1_equip.mp3-e7e8599c99da72f7511594cd00cce02d.mp3str"
+
+[deps]
+
+source_file="res://Sounds/Objects/Player/weapon1_equip.mp3"
+dest_files=[ "res://.import/weapon1_equip.mp3-e7e8599c99da72f7511594cd00cce02d.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
